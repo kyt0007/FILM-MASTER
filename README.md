@@ -171,7 +171,7 @@ The agent is deployed and ready. No local setup needed.
 Open the hosted UI in your browser:
 
 ```
-https://film-master-service-abc123xyz-uc.a.run.app
+https://adk-default-service-name-1055217599977.us-central1.run.app
 ```
 
 1. Select **film_generator_agent** from the dropdown
